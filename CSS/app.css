@@ -1,0 +1,12 @@
+:root{
+    --black: #273746;
+    --light: #D5DBDB;
+}
+*{
+    box-sizing: border-box;
+}
+body{
+    color: var(--light);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: var(--black);
+}
