@@ -10,7 +10,7 @@ Primero instalar las dependencias para el testing usando:
 # Ejecutar
 Para ejecutar el aplicativo se debe usar un servidor apache (XAMP, LAMP, WAMP etc).
 Ubicar la carpeta ACME PROBLEM en cualquiera de esos servidores, luego dirigirse al navegador y escribit la url:
-```http://localhost/ACME-Problem/```
+```http://localhost/Acme-Problem-Solution/```
 
 # Testing
 ```npm t```
